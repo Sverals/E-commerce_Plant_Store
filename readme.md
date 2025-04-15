@@ -62,8 +62,10 @@ Growing info SVG's
 
 Image by OpenClipart-Vectors from Pixabay https://pixabay.com/vectors/moon-cosmic-stars-universe-159387/
 
-Image by 3D Illustrator and Graphic Designer from Pixabay
+Image by 3D Illustrator and Graphic Designer from Pixabay https://pixabay.com/vectors/sun-cut-out-summer-nature-weather-6699082/
 
-Image by Mostafa Elturkey from Pixabay
+Image by Mostafa Elturkey from Pixabay https://pixabay.com/vectors/desert-atacama-chile-bolivia-5112222/
 
-Image by Mostafa Elturkey from Pixabay
+Image by OpenIcons from Pixabay https://pixabay.com/vectors/rain-heavy-rain-cloudy-rainy-drops-98538/
+
+Image by poohchisa tunsiri from Pixabay https://pixabay.com/photos/rock-gravel-footpath-pebbles-1583561/
